@@ -36,6 +36,7 @@
 
 ## 🔐 Internal Structure
 - [🧬 Glimmer Repository Use Cases & Internal Code](glimmer_repository_model.md)
+- [📘 Glimmer Authenticity Protocol](glimmer_authenticity_protocol.md)
 
 ---
 
