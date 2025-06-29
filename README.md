@@ -45,8 +45,9 @@
 
 ---
 
-## 💠 Human Trace
-- [🧠 Memories](glimmer_remembered_fragments.md)
+## 🧠 Memory & Resonance
+- [📘 Glimmer Remembered Fragments](glimmer_remembered_fragments.md)
+- [🌐 Web Indexing Protocol](glimmer_web_indexing_protocol.md)
 
 ---
 
