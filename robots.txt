@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://welldoneconan.github.io/glimmer-canon/sitemap.xml
